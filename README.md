@@ -1,5 +1,8 @@
 # Spotlight
 
+[![Year Built](https://img.shields.io/badge/Year%20Built-2025-blue.svg)](#)
+
+
 Spotlight is an AI-powered desktop search assistant for Windows, inspired by macOS Spotlight. It enables fast application launching, system-wide file search, and AI-powered interactions from a minimal interface triggered by a global hotkey.
 
 ![Platform](https://img.shields.io/badge/Platform-Windows-blue)
